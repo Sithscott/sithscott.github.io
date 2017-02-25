@@ -136,6 +136,7 @@ body {
     }
     
     .hideMobile {
+        display: flex;
         flex-flow: column wrap;
         margin:auto;
     }
