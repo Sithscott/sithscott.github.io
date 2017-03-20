@@ -66,6 +66,7 @@ h1 {
 #sun img {
     position: relative;
     height: 30%;
+    width:50%;
 }
 
 #sun p {
