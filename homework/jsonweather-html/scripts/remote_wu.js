@@ -37,7 +37,7 @@ $(function () {
     // Get the data from the wunderground API
     function getData(lat, long) {
         $.ajax({
-                url: "http://api.wunderground.com/api/ede33b3287d21605/geolookup/q/" + lat + ',' + long + ".json",
+                url: "https://api.wunderground.com/api/ede33b3287d21605/geolookup/q/" + lat + ',' + long + ".json",
                 dataType: "jsonp",
                 success: function (data) {
                     var location = data['location']['city'];
@@ -59,7 +59,7 @@ $(function () {
     
 function getConditions(location, state) {
      $.ajax({
-                url: "http://api.wunderground.com/api/ede33b3287d21605/conditions/q/" + state + '/' + location + ".json",
+                url: "https://api.wunderground.com/api/ede33b3287d21605/conditions/q/" + state + '/' + location + ".json",
                 dataType: "jsonp",
                 success: function (data) {
                     var temp_f = data['current_observation']['temp_f'];
