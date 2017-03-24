@@ -46,7 +46,7 @@ $(function () {
                    var temp = $('currentTemp');
                     var summary = $('summary');
                     document.getElementById('cityDisplay').innerHTML = location;
-                     console.log(data)
+                     console.log(data);
 //                    temp.text(temp_f);
 //                    summary.text(location);
                    // alert("Current temperature in " + location + " is: " + temp_f);
