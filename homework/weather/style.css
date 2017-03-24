@@ -180,3 +180,11 @@ body {
     text-align:center;
     font-size:1.6em; 
 }
+
+#searchResults a {
+    color:black;
+}
+
+#searchResults a:hover {
+    background-color:yellow;
+}
