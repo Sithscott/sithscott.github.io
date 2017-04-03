@@ -1,7 +1,182 @@
+* {
+  box-sizing: border-box;
+}
+
 #logo {
-    width:70%;
+    width:100%;
     height: 200px;
     margin:auto;
     text-align: center;
     display:flex;
+}
+
+
+body {
+    background-color: black;
+    color: orangered;
+    width:100%;
+}
+
+#header ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orangered;
+}
+
+#header li {
+float: left;
+}
+
+#header li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:'Revalia', sans-serif;
+}
+
+#header li a:hover {
+    background-color: red;
+}
+
+#mainImg {
+    justify-content: center;
+    margin:auto;
+    flex: 1 1 auto;
+    width:70%;
+    height: 250px;
+}
+
+#introduction {
+    margin:auto;
+    text-align: center;
+    
+}
+
+#mainContent {
+    display:flex;
+    flex-flow:row wrap;
+    align-content:center;
+    width:100%;
+    text-align:center;
+}
+
+h1 {
+    text-align:center;
+    margin: auto;
+    font-family:'Revalia', fantasy;
+    
+}
+
+p {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1.4em;
+    display:block;
+/*    flex: 1 1 auto;*/
+        
+}
+
+#characterul ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: orangered;
+}
+
+#characterul li {
+float: left;
+}
+
+#characterul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family:'Revalia', sans-serif;
+}
+
+#characterul  li a:hover {
+    background-color: red;
+}
+
+#name {
+    width:100%;
+    text-align:center;
+    flex:1 1 auto;
+}
+ #content {
+    width:100%;
+    text-align:center;
+    flex:1 1 auto;
+}
+
+#img {
+    height:250px;
+    width:70%;
+    margin:auto;
+    flex: 1 1 auto;
+}
+
+#movie {
+    width:100%;
+    flex: 1 1 auto;
+    height:400px;
+}
+/*
+
+video {
+    width:80%
+}
+*/
+
+img {
+    height:300px;
+    width:70%;
+    align-items: center;
+    align-self:center;
+    margin:auto;
+    flex: 1 1 auto;
+}
+
+#imgC {
+    flex: 1 1 auto;
+    margin:auto;
+}
+
+
+
+@media (min-width:32em){
+    #img{
+        flex: 0 1 auto;
+    }
+    
+    #mainImg {
+        flex: 0 1 auto;
+    }
+    
+    img {
+        margin:auto;
+/*
+        width:50%;
+        height:70%;
+*/
+        flex: 0 1 auto;
+        }
+    
+    #name {
+        padding:5px;
+        flex:1 1 auto;
+    }
+    
+    #imgC {
+        flex:0 1 auto;
+    }
+    
+    
+    
 }

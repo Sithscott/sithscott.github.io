@@ -1,0 +1,65 @@
+{
+    "Gohan": {
+        "Name": "Gohan",
+        "Content": "Gohan is the son of Goku and Chi Chi. He has great potential as a fighter. The time that you see his potential the most is when he gets into a violent Rage. He was trained by Piccolo to fight the Saiyans, and trained by Goku to fight the cyborgs. He has a strong desire for peace. He actually doesn't like to resort to fighting. Even though he has Saiyan genetics he doesn't have the same desire to fight stronger opponents.",
+        "Picture": "<img src='gohan.jpg'>"
+    },
+
+    "Goku": {
+        "Name": "Goku",
+        "Content": "Trained as a small boy by his adoptive grandfather, Goku always had a talent for martial arts. Married to Chi Chi, the daughter of the Ox King, Goku has settled down in family life with his wife and son. He has a pure heart and is innocent, however he still has the desire to fight strong foes. Overall he is laidback and very relaxed amidst all the problems he has seen in his life. ",
+        "Picture": "<img src='goku.jpg'>"
+    },
+
+    "Vegeta": {
+        "Name": "Vegeta",
+        "Content": "Vegeta was the heir to the line of royalty in the saiyan alien species. He is the prince named after his father King Vegeta. His biggest obsession is to be stronger than Goku. He is also the Father of Trunks and married to Bulma. Vegeta has a strong sense of pride for himself.",
+        "Picture": "<img src='vegeta.jpg'>"
+    },
+
+    "Piccolo": {
+        "Name": "Piccolo",
+        "Content": "Reincarnation of the Evil King Piccolo. After some time training with Gohan, Piccolo's evil heart was influenced by the purity of Gohan's heart to the point that he even sacrificed his life to save Gohan. He is a namekian, an alien species that survives purely on water. He often likes to meditate on his own and has a very strong sense of hearing.",
+        "Picture": "<img src='piccolo.jpg'>"
+    },
+
+    "Chi Chi": {
+        "Name": "Chi Chi",
+        "Content": "Daughter of the Ox King. Her dream is to have a family that will be successful. This mentality often can seem forceful when she makes Gohan, her son study to be successful. She doesn't want Gohan to turn into Goku. She met Goku as a young pre teen. Goku promised to marry her even though he didn't know what marriage was. As an adult though, he decided to keep true to his promise and married Chi Chi after meeting her again at the Martial Arts Tournament.",
+        "Picture": "<img src='chichi.jpg'>"
+    },
+
+    "Bulma": {
+        "Name": "Bulma",
+        "Content": "Bulma met Goku and started this whole journey to find the dragonballs and wish for the perfect boyfriend. She eventually got married to Vegeta however as that wish never came to fruition. She has a very keen intellect, with an affinity for creating machines and devices. She is the daughter of Dr. Brief, the world's smartest man in terms of technology. She lives in the main headquarters of Capsule Corporation.",
+        "Picture": "<img src='bulma.jpg'>"
+    },
+    "Trunks": {
+        "Name": "Trunks",
+        "Content": "Trunks is the son of Vegeta and Bulma. He comes from the Future to warn the rest of the fighters about the cyborgs. His future which is 20 years later, is on the verge of being completely void of life. He was trained by the Gohan in his time. Bulma created a time machine to send him to give Goku the heart medicine.",
+        "Picture": "<img src='trunks.jpg'>"
+    },
+    "Krillin": {
+        "Name": "Krillin",
+        "Content": "Krillin is the best friend of Goku. They trained with Master Roshi as kids. He shaves his head and burns insence on his forehead as is a monk tradition. He was a monk before seeking out Master Roshi to become stronger. He has used the fact that he doesn't have a nose to fight some foes. He is also the creator of the move the Destructo Disc. A disc made out of life ki that can cut through all objects.",
+        "Picture": "<img src='krillin.jpg'>"
+    },
+    "Yamcha": {
+        "Name": "Yamcha",
+        "Content": "Yamcha used to be a desert Bandit. After hearing about the Dragonballs, he wants to also go after them. He eventually falls in love with Bulma and joins the adventure. Yamcha gets killed during the Saiyan's onsalaught. He travels around with his trusty friend Puar. Puar is a shape shifting cat.",
+        "Picture": "<img src='yamcha.jpg'>"
+    },
+    
+    "Tien" : {
+        "Name": "Tenshinhan",
+        "Content": "Tenshinhan or Tien for short was once a student in the crane school. After the tournament and seeing how the crane school treats its students in comparison to Master Roshi, Tien changed to be a mentor under Master Roshi. He has a third eye that allows him to focus his ki more than most. He constantly goes by himself to train or just to travel.",
+        "Picture" : "<img src='tien.jpg'>"
+    },
+    
+    "Master Roshi" : {
+        "Name": "Master Roshi",
+        "Content": "Master Roshi is the Turtle Hermit who lives on his own personal island with his small house he calls Kame House. He is a master and instructs the turtle school. He taught Goku and Krillin when they were kids. He also taught grandpa Gohan while he was training in Martial Arts. He has had the fountain of youth, while he was old. Now he will live for a long period of time but as an old man. He can be a bit of a pervert towards females he comes in contact with. He created the ultimate destructive wave Kamehameha!",
+        "Picture" : "<img src='roshi.jpg'>"
+    }
+    
+}
